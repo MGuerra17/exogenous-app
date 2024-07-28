@@ -1,5 +1,7 @@
 # Exógena Organizer App
 
+<img width="1660" alt="image" src="https://github.com/user-attachments/assets/bcda6084-ffaf-41bc-9970-c71325b9ee43">
+
 ## Descripción
 
 La Exógena Organizer App es una herramienta diseñada para ayudar a los contadores en Colombia a manejar la información de la exógena generada por la DIAN. La aplicación permite subir archivos de tipo Excel, organizar todas las transacciones por diferentes categorías y, finalmente, generar un nuevo documento XLSX con la información ordenada y coloreada para facilitar su manejo.
